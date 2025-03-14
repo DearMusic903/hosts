@@ -1,0 +1,18 @@
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
+
+0.0.0.0 angularpoppyrobbing.com
+0.0.0.0 landsideresendtrousers.com
+0.0.0.0 aroundcommoditysway.com
+0.0.0.0 gloriousoutfieldtrembling.com
+0.0.0.0 bankingbloatedcaptive.com
+0.0.0.0 appointeeivyspongy.com
+0.0.0.0 divisiondrearilyunfiled.com
+0.0.0.0 shakingtacklingunpeeled.com
+0.0.0.0 isolatedovercomepasted.com
